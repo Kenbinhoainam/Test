@@ -1,1 +1,1 @@
-ptrint("")
+ptrint("ok")
