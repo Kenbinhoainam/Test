@@ -1,2 +1,2 @@
 ptrint("change")
-print("hello")
+print("ok"
