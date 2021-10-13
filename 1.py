@@ -1,1 +1,2 @@
 ptrint("change")
+print("ok")
